@@ -1,0 +1,4 @@
+﻿  PerfectNumbers.cpp
+D:\C++\Projeler\PerfectNumbers\PerfectNumbers.cpp(55,37): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+D:\C++\Projeler\PerfectNumbers\PerfectNumbers.cpp(57,91): warning C4244: '=': 'double' - '__int64' dönüşümü; veri kaybı olabilir
+  PerfectNumbers.vcxproj -> D:\C++\Projeler\PerfectNumbers\x64\Debug\PerfectNumbers.exe
