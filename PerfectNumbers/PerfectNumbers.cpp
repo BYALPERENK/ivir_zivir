@@ -11,7 +11,7 @@ int main()
     long long int son;
     long long int bas_i;
 
-    cout << "Kaca kadar perfect number aransin?" << endl;
+    cout << "Kaca kadar perfect-number aransin?" << endl;
     cin >> son;
 
     for (long long int i = 5; i <= son; i++)
