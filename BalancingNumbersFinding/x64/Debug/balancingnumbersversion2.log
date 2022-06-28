@@ -1,0 +1,3 @@
+﻿  balancingnumbersversion2.cpp
+D:\C++\Projeler\balancingnumbersversion2\balancingnumbersversion2.cpp(33,7): warning C4244: '=': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  balancingnumbersversion2.vcxproj -> D:\C++\Projeler\balancingnumbersversion2\x64\Debug\balancingnumbersversion2.exe
