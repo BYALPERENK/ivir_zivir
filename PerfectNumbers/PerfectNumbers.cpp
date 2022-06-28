@@ -1,11 +1,14 @@
 ﻿#include <iostream>
 #include <vector>
 #include <cmath>
+#include <chrono>
+
 
 using namespace std;
 
 int main()
-{
+{   
+    
     vector<long long int> bolenlerVec;
     vector<long long int> bolenlerinSayisiVec;
     long long int son;
@@ -13,7 +16,7 @@ int main()
 
     cout << "Kaca kadar perfect-number aransin?" << endl;
     cin >> son;
-
+    auto started = std::chrono::high_resolution_clock::now();
     for (long long int i = 5; i <= son; i++)
     {
         bas_i = i;
@@ -66,9 +69,8 @@ int main()
         bolenlerVec.clear();
         bolenlerinSayisiVec.clear();
 
-        if (i % 10000000 == 0)
-        {
-            cout << i << " gecildi" << endl;
-        }
     }
+    auto done = std::chrono::high_resolution_clock::now();
+    cout << "Sure:";
+    cout << std::chrono::duration_cast<std::chrono::nanoseconds>(done - started).count();
 }

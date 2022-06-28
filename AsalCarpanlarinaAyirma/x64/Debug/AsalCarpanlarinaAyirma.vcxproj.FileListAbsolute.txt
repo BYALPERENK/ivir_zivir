@@ -1,1 +1,2 @@
 C:\Users\alper\source\repos\AsalCarpanlarinaAyirma\x64\Debug\AsalCarpanlarinaAyirma.exe
+D:\C++\Repom\ivir_zivir\AsalCarpanlarinaAyirma\x64\Debug\AsalCarpanlarinaAyirma.exe
