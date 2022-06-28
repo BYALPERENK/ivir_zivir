@@ -1,0 +1,8 @@
+﻿  KareIciOrtalamaUzaklik.cpp
+C:\Users\alper\source\repos\KareIciOrtalamaUzaklik\KareIciOrtalamaUzaklik.cpp(11,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\alper\source\repos\KareIciOrtalamaUzaklik\KareIciOrtalamaUzaklik.cpp(23,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alper\source\repos\KareIciOrtalamaUzaklik\KareIciOrtalamaUzaklik.cpp(24,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alper\source\repos\KareIciOrtalamaUzaklik\KareIciOrtalamaUzaklik.cpp(25,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alper\source\repos\KareIciOrtalamaUzaklik\KareIciOrtalamaUzaklik.cpp(26,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alper\source\repos\KareIciOrtalamaUzaklik\KareIciOrtalamaUzaklik.cpp(28,23): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  KareIciOrtalamaUzaklik.vcxproj -> C:\Users\alper\source\repos\KareIciOrtalamaUzaklik\x64\Debug\KareIciOrtalamaUzaklik.exe
