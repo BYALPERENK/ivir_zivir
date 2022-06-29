@@ -1,0 +1,7 @@
+﻿  CarmichealFromOffice.cpp
+C:\Users\alper\source\repos\CarmichealFromOffice\CarmichealFromOffice.cpp(19,29): warning C4244: 'başlatılıyor': 'double' - 'unsigned __int64' dönüşümü; veri kaybı olabilir
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  CarmichealFromOffice.vcxproj -> C:\Users\alper\source\repos\CarmichealFromOffice\x64\Release\CarmichealFromOffice.exe
