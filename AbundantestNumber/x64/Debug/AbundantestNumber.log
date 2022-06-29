@@ -1,0 +1,6 @@
+﻿  AbundantestNumber.cpp
+C:\Users\alper\source\repos\AbundantestNumber\AbundantestNumber.cpp(57,37): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\alper\source\repos\AbundantestNumber\AbundantestNumber.cpp(59,91): warning C4244: '=': 'double' - '__int64' dönüşümü; veri kaybı olabilir
+C:\Users\alper\source\repos\AbundantestNumber\AbundantestNumber.cpp(62,18): warning C4244: 'başlatılıyor': '__int64' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\alper\source\repos\AbundantestNumber\AbundantestNumber.cpp(16,12): warning C4101: 'x': yerel değişken başvurusu kaldırıldı
+  AbundantestNumber.vcxproj -> C:\Users\alper\source\repos\AbundantestNumber\x64\Debug\AbundantestNumber.exe
