@@ -1,0 +1,2 @@
+C:\Users\alper\source\repos\AsalBulucuInternet\x64\Release\AsalBulucuInternet.exe
+D:\C++\Repom\ivir_zivir\AsalBulucu\x64\Release\AsalBulucuInternet.exe

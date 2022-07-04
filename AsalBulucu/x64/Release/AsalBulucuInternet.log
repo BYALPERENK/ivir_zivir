@@ -1,0 +1,12 @@
+﻿  AsalBulucuInternet.cpp
+D:\C++\Repom\ivir_zivir\AsalBulucu\AsalBulucuInternet.cpp(35,28): warning C4244: 'bağımsız değişken': '__int64' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+  Kod üretiliyor
+  2 of 198 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  AsalBulucuInternet.vcxproj -> D:\C++\Repom\ivir_zivir\AsalBulucu\x64\Release\AsalBulucuInternet.exe
