@@ -1,0 +1,3 @@
+﻿  ArmstrongSayisi.cpp
+C:\Users\alper\source\repos\ArmstrongSayisi\ArmstrongSayisi.cpp(25,11): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ArmstrongSayisi.vcxproj -> C:\Users\alper\source\repos\ArmstrongSayisi\x64\Debug\ArmstrongSayisi.exe
