@@ -1,7 +1,0 @@
-﻿  AsalBulucuInternet.cpp
-C:\Users\alper\source\repos\AsalBulucuInternet\AsalBulucuInternet.cpp(35,28): warning C4244: 'bağımsız değişken': '__int64' - '_Ty' dönüşümü; veri kaybı olabilir
-          with
-          [
-              _Ty=int
-          ]
-  AsalBulucuInternet.vcxproj -> C:\Users\alper\source\repos\AsalBulucuInternet\x64\Debug\AsalBulucuInternet.exe
